@@ -1,0 +1,9 @@
+# Netlify build/deploy config — static single-file site, no build step.
+[build]
+  publish = "."
+
+# SPA-style safety net: unknown paths fall back to the landing page.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
