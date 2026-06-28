@@ -21,7 +21,7 @@ npx serve .
 
 Сайт опубликован на **Netlify**.
 
-**Live:** https://vip-muslims-club.netlify.app
+**Live:** https://unity-muslims-club.netlify.app
 
 Сейчас деплой выполняется вручную из чистой папки публикации:
 
